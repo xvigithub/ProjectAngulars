@@ -1,0 +1,14 @@
+﻿.new
+{
+	border-left: #3a87ad solid 10px;
+}
+
+.inProgress
+{
+	border-left: #468847 solid 10px;
+}
+
+.returned
+{
+	border-left: #f89406 solid 10px;
+}
